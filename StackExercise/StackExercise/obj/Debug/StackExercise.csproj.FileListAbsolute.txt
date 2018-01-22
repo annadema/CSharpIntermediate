@@ -1,0 +1,9 @@
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\bin\Debug\StackExercise.exe.config
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\bin\Debug\StackExercise.exe
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\bin\Debug\StackExercise.pdb
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\obj\Debug\StackExercise.csprojResolveAssemblyReference.cache
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\obj\Debug\StackExercise.exe
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\StackExercise\StackExercise\obj\Debug\StackExercise.pdb
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StackExercise\StackExercise\bin\Debug\StackExercise.exe.config
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StackExercise\StackExercise\obj\Debug\StackExercise.exe
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StackExercise\StackExercise\obj\Debug\StackExercise.pdb
