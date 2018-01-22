@@ -1,0 +1,12 @@
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.exe.config
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.exe
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.pdb
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.csprojResolveAssemblyReference.cache
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.exe
+c:\users\annam\onedrive\documenti\visual studio 2015\Projects\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.pdb
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.exe.config
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.exe
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.pdb
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.exe
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\bin\Debug\StopWatchMio.pdb
+C:\Users\annam\Documents\VISUAL STUDIO 2015\Projects\MOSH\StopWatchMio\StopWatchMio\obj\Debug\StopWatchMio.csprojResolveAssemblyReference.cache
